@@ -1,0 +1,44 @@
+[
+	{
+		"queue": "empty",
+		"key": "0",
+		"url": "",
+		"css": "invisible",
+		"label": ""
+	},
+  {
+		"queue": "MillicomQueue",
+		"key": "1",
+		"url": "https://millicom.com/",
+		"css": "btn btn-primary",
+		"label": "Go to Mic SN"
+	},
+  {
+		"queue": "SalesForceQueue",
+		"key": "2",
+		"url": "https://www.salesforce.com/mx/?ir=1",
+		"css": "btn btn-info",
+		"label": "Go to SalesForce SN"
+	},
+  {
+		"queue": "AdvanceSupportQueue",
+		"key": "3",
+		"url": "https://www.ctg.com/",
+		"css": "btn btn-success",
+		"label": "Go to CTG SN"
+	},
+  {
+		"queue": "eHealthQueue",
+		"key": "4",
+		"url": "https://ehealthtechnologies.com/",
+		"css": "btn btn-warning",
+		"label": "Go to Ehealth SN"
+	},
+  {
+		"queue": "Temp247",
+		"key": "5",
+		"url": "https://openai.com/blog/chatgpt/",
+		"css": "btn btn-secondary",
+		"label": "Go to GPT3 SN"
+	}
+]
